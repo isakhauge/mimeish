@@ -14,8 +14,8 @@
     "url": "https://github.com/isakhauge/mimeish.git"
   },
   "license": "MIT",
-  "main": "./dist/latest/mimeish.js",
-  "module": "./dist/latest/mimeish.js",
+  "main": "./dist/mimeish.js",
+  "module": "./dist/mimeish.js",
   "types": "./types/global.d.ts",
   "keywords": [
     "mime",
