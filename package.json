@@ -17,13 +17,11 @@
   "main": "./dist/latest/mimeish.js",
   "module": "./dist/latest/mimeish.js",
   "keywords": [
-    "spy",
-    "observe",
-    "observer",
-    "watch",
-    "watcher",
-    "reactive",
-    "reactivity",
+    "mime",
+    "mime-type",
+    "ext",
+    "extension",
+    "browser",
     "es",
     "typescript",
     "vite"
