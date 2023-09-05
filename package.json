@@ -1,6 +1,6 @@
 {
   "name": "mimeish",
-  "description": "A small, reactive value observer.",
+  "description": "Browser Compatible MIME Toolkit",
   "private": false,
   "version": "0.0.1",
   "type": "module",
@@ -16,6 +16,7 @@
   "license": "MIT",
   "main": "./dist/latest/mimeish.js",
   "module": "./dist/latest/mimeish.js",
+  "types": "./types/global.d.ts",
   "keywords": [
     "mime",
     "mime-type",
